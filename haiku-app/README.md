@@ -33,7 +33,7 @@ A creative and interactive Flask web app for generating poetic, quirky, and user
    
 ---
 
-## Screenshot
+## Screenshots
 
 <img width="800" alt="Haiku App Light Screenshot" src="https://github.com/user-attachments/assets/e25aa96a-c064-43fe-a4d6-07623a8ddaab" />
 
@@ -42,7 +42,9 @@ A creative and interactive Flask web app for generating poetic, quirky, and user
 ---
 
 ## API
+
 GET /api/haiku?vibe=VIBE
+
 Returns a random haiku (and optional whisper) in JSON.
 
 ### Example usage
