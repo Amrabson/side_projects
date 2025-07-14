@@ -22,3 +22,42 @@ A creative and interactive Flask web app for generating poetic, quirky, and user
    (Recommended: Python 3.9+)
    ```bash
    pip install flask
+   
+2. **Run the app:**
+   ```bash
+   python haiku_app.py
+   
+4. **Open your browser:**
+   Visit http://127.0.0.1:5000
+   Interact, generate, and submit haiku!
+   
+---
+
+## Screenshot
+
+<img width="1862" height="1018" alt="image" src="https://github.com/user-attachments/assets/c5b09173-7c31-4085-ae98-46076089ba6e" />
+<img width="600" alt="Haiku App Screenshot" src="https://github.com/user-attachments/assets/c5b09173-7c31-4085-ae98-46076089ba6e" />
+
+---
+
+## API
+GET /api/haiku?vibe=VIBE
+Returns a random haiku (and optional whisper) in JSON.
+
+### Example usage
+
+- Browser
+   ```bash
+   http://127.0.0.1:5000/api/haiku?vibe=funny
+   
+- Python
+   ```bash
+   import requests
+   response = requests.get('http://127.0.0.1:5000/api/haiku?vibe=joy')
+   print(response.json())
+
+---
+
+## Credits
+Created by Aharon Rabson
+GitHub: @Amrabson
