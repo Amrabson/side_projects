@@ -35,8 +35,9 @@ A creative and interactive Flask web app for generating poetic, quirky, and user
 
 ## Screenshot
 
-<img width="1862" height="1018" alt="image" src="https://github.com/user-attachments/assets/c5b09173-7c31-4085-ae98-46076089ba6e" />
-<img width="600" alt="Haiku App Screenshot" src="https://github.com/user-attachments/assets/c5b09173-7c31-4085-ae98-46076089ba6e" />
+<img width="800" alt="Haiku App Light Screenshot" src="https://github.com/user-attachments/assets/e25aa96a-c064-43fe-a4d6-07623a8ddaab" />
+
+<img width="800" alt="Haiku App Dark Screenshot" src="https://github.com/user-attachments/assets/c5b09173-7c31-4085-ae98-46076089ba6e" />
 
 ---
 
