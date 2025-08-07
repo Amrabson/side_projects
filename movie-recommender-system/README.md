@@ -1,25 +1,25 @@
 # Movie Recommender System
 
-A hands-on data science project that builds and evaluates a content-based movie recommender using Python.  
-This notebook demonstrates the process of data wrangling, exploratory analysis, text feature engineering, similarity computation, and interactive recommendations.
+A content-based movie recommendation system implemented in Python.  
+Demonstrates preprocessing, feature extraction, and similarity-based recommendations using movie metadata and ratings.
 
 ---
 
 ## Features
 
-- Loads and cleans movie metadata (titles, genres, plots, cast, etc.)
-- Feature engineering with TF-IDF and CountVectorizer
-- Calculates movie similarity scores (cosine similarity)
-- Returns recommended movies by similarity to user input
-- Includes interactive examples for Jupyter users
-- Lightweight and fully reproducible
+- Loads and processes movie metadata (`movies.csv`) and user ratings (`ratings.csv`)
+- Extracts features from genres and titles using vectorization
+- Computes cosine similarity between movies
+- Generates top-N movie recommendations based on content similarity
+- Reproducible and interactive Jupyter notebook
 
 ---
 
 ## Files
 
-- `MovieRecommenderSystem.ipynb` — Jupyter notebook with all code, analysis, and output
-- `movies.csv` and `ratings.csv` - Movie metadata
+- `MovieRecommenderSystem.ipynb` — Jupyter notebook (main code and analysis)
+- `movies.csv` — Dataset with movie titles and genre metadata
+- `ratings.csv` — Dataset with user ratings for movies
 
 ---
 
