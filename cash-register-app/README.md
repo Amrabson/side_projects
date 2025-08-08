@@ -17,16 +17,16 @@ Designed as a package, it provides a command-line interface for managing sales, 
 ---
 
 ## Project Structure
-cash_register_app/
-    ├── cash_register/       <-- your package
-    │   ├── __init__.py
-    │   ├── cart.py
-    │   ├── cli.py
-    │   ├── item.py
-    │   ├── payment.py
-    │   ├── register.py
-    │   └── receipt.py
-    └── main.py              <-- your launcher stub
+cash_register_app/ <br>
+    ├── cash_register/       <-- your package<br>
+    │   ├── __init__.py<br>
+    │   ├── cart.py<br>
+    │   ├── cli.py<br>
+    │   ├── item.py<br>
+    │   ├── payment.py<br>
+    │   ├── register.py<br>
+    │   └── receipt.py<br>
+    └── main.py              <-- your launcher stub<br>
 
 ---
 
