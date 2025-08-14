@@ -50,18 +50,18 @@ cash_register_app/ <br>
 
 ---
 
-**Example**
-=== Cash Register ===
-Add item (name,price,qty), 'pay', or 'quit': Bread,3.49,1
-Added: 1 x 'Bread' at 3.49 each.
-Add item (name,price,qty), 'pay', or 'quit': pay
-Received cash: 3.73
+**Example** <br>
+=== Cash Register === <br>
+Add item (name,price,qty), 'pay', or 'quit': Bread,3.49,1 <br>
+Added: 1 x 'Bread' at 3.49 each. <br>
+Add item (name,price,qty), 'pay', or 'quit': pay <br>
+Received cash: 3.73 <br>
 
-====== Receipt ======
-1. Bread x1 @ 3.49 = 3.49
+====== Receipt ====== <br>
+1. Bread x1 @ 3.49 = 3.49 <br>
 
-Subtotal: 3.49
-Tax (7.0%): 0.24
+Subtotal: 3.49 <br>
+Tax (7.0%): 0.24 <br>
 Total: 3.73
 
 ---
