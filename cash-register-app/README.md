@@ -68,6 +68,7 @@ Total: 3.73
 ---
 
 **Author**
-Aharon Rabson
-GitHub: @Amrabson
+
+Aharon Rabson <br>
+GitHub: @Amrabson <br>
 
