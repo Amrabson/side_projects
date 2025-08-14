@@ -51,6 +51,7 @@ cash_register_app/ <br>
 ---
 
 **Example** <br>
+
 === Cash Register === <br>
 Add item (name,price,qty), 'pay', or 'quit': Bread,3.49,1 <br>
 Added: 1 x 'Bread' at 3.49 each. <br>
